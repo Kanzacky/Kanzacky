@@ -37,16 +37,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
----
-
-<div align="center">
-<p><b>Profile Visitor Count</b></p>
-  <img src="https://komarev.com/ghpvc/?username=Kanzacky&color=00d2ff&style=flat-square&label=EYES+ON+ME" alt="Visitors" />
-  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Kanzacky/Kanzacky/main/assets/line-wave.svg" width="100%" />
-    <br />
-    Made with ☕ and some ⚡ by <b>Kanzacky</b>
-  </p>
-  </div>
