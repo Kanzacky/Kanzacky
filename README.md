@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Hello,%20I'm%20Kanzacky!&fontSize=50&animation=fadeIn" />
 
-<!--
-**Kanzacky/Kanzacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>🚀 Frontend Developer | TypeScript Enthusiast</h1>
+  
+  <p align="center">
+    <i>"I spend 10% of my time coding and 90% of my time fighting with 'any' types in TypeScript."</i>
+  </p>
 
-Here are some ideas to get you started:
+  <div>
+    <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧐 Tentang Saya
+- 💻 Sedang sibuk membuat website yang *responsive* (tapi kadang cuma hancur di iPhone SE).
+- 🛠️ Tech Stack utama: **Next.js**, **TypeScript**, dan **Tailwind CSS**.
+- 🐍 Kadang main **Python** kalau lagi pengen yang simpel atau lagi malas liat kurung kurawal `{}`.
+- ⚡ Percaya bahwa `console.log` adalah metode debugging terbaik sepanjang masa.
+
+### 🛠️ My Digital Toolbelt
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,js,py,react,html,css,git,vscode" height="50" />
+</div>
+
+---
+
+### 📊 Statistik (Yang Semoga Hijau Terus)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanzacky&show_icons=true&theme=dracula&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanzacky&layout=compact&theme=dracula" height="170" />
+</div>
+
+---
+
+### 🌐 Mari Terhubung (Bisa Diajak Mabar atau Bahas Error)
+<div align="center">
+  <a href="https://discord.com/users/1onlyyou">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/zackyadienugroho">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quotes" />
+</div>
