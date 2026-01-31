@@ -30,14 +30,6 @@
 
 ---
 
-### 📊 Statistik (Yang Semoga Hijau Terus)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanzacky&show_icons=true&theme=dracula&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanzacky&layout=compact&theme=dracula" height="170" />
-</div>
-
----
-
 ### 🌐 Mari Terhubung (Bisa Diajak Mabar atau Bahas Error)
 <div align="center">
   <a href="https://discord.com/users/1onlyyou">
