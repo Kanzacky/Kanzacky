@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Hello,%20I'm%20Kanzacky!&fontSize=50&animation=fadeIn" />
-
   <h1>🚀 Frontend Developer | TypeScript Enthusiast</h1>
   
   <p align="center">
@@ -43,5 +41,12 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quotes" />
-</div>
+<p><b>Profile Visitor Count</b></p>
+  <img src="https://komarev.com/ghpvc/?username=Kanzacky&color=00d2ff&style=flat-square&label=EYES+ON+ME" alt="Visitors" />
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Kanzacky/Kanzacky/main/assets/line-wave.svg" width="100%" />
+    <br />
+    Made with ☕ and some ⚡ by <b>Kanzacky</b>
+  </p>
+  </div>
