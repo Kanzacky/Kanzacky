@@ -19,7 +19,6 @@
 - 💻 Sedang sibuk membuat website yang *responsive* (tapi kadang cuma hancur di iPhone SE).
 - 🛠️ Tech Stack utama: **Next.js**, **TypeScript**, dan **Tailwind CSS**.
 - 🐍 Kadang main **Python** kalau lagi pengen yang simpel atau lagi malas liat kurung kurawal `{}`.
-- ⚡ Percaya bahwa `console.log` adalah metode debugging terbaik sepanjang masa.
 
 ### 🛠️ My Digital Toolbelt
 <div align="center">
