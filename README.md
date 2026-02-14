@@ -1,4 +1,4 @@
-# Halo, Saya [Zaki]! 👋
+# Halo, Saya Zaki!
 
 Seorang **Fullstack Developer Pemula** yang sedang bersemangat membangun aplikasi web modern dan mempelajari hal-hal baru di dunia teknologi.
 
@@ -7,7 +7,6 @@ Seorang **Fullstack Developer Pemula** yang sedang bersemangat membangun aplikas
 ### Tentang Saya
 - Saat ini sedang mendalami ekosistem **Next.js** dan **TypeScript**.
 - Senang bereksperimen dengan **Python** untuk otomatisasi atau backend sederhana.
-- Tanya saya tentang JavaScript atau proyek yang sedang saya kerjakan!
 
 ---
 
