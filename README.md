@@ -1,4 +1,4 @@
-# Hi, I'm Zaki! 👋
+# Hi, I'm Zaki!
 
 An **Aspiring Fullstack Developer** who is passionate about building modern web applications and learning new things in the world of technology.
 
@@ -10,7 +10,7 @@ An **Aspiring Fullstack Developer** who is passionate about building modern web 
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,python)](https://skillicons.dev)
 [![My Tools](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
