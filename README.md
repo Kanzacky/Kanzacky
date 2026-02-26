@@ -17,5 +17,4 @@ An **Aspiring Fullstack Developer** who is passionate about building modern web 
 ---
 
 ### Contact Me
-- **LinkedIn**: [linkedin.com/in/zakiadinugroho](https://linkedin.com/in/zakiadinugroho)
 - **Email**: [zackyadie99@gmail.com](mailto:zackyadie99@gmail.com)
