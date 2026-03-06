@@ -1,7 +1,5 @@
 # Hi, I'm Zaki!
 
-An **Aspiring Fullstack Developer** who is passionate about building modern web applications and learning new things in the world of technology.
-
 ---
 
 ### About Me
