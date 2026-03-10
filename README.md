@@ -1,12 +1,12 @@
 ---
 
-# 👋 Hi, I'm Zaki
+# Hi, I'm Zaki
 
-> 🐣 Junior everything • Senior Googler • Ctrl+C Ctrl+V Enthusiast
+> Junior everything • Senior Googler • Ctrl+C Ctrl+V Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Tech1](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tech2](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/-zackyadie99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zackyadie99@gmail.com)
 
