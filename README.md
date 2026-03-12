@@ -1,6 +1,6 @@
 # Hi, I'm Zaki
 
-> Junior everything • Senior Googler • Ctrl+C Ctrl+V Enthusiast
+> Junior everything
 
 ---
 
