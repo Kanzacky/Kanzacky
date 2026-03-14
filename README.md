@@ -6,10 +6,10 @@
 
 ## Tech Stack
 
-![Tech1](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tech2](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tech3](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tech4](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Google](https://img.shields.io/badge/-Googling-4285F4?style=flat&logo=google&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Coffee](https://img.shields.io/badge/-Caffeine_Driven-6F4E37?style=flat&logo=coffee&logoColor=white)
+![Learning](https://img.shields.io/badge/-Continuous_Learning-00ADD8?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
